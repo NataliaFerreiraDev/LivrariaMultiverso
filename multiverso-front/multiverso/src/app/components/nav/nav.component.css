@@ -1,0 +1,12 @@
+.navbar{
+  background-color: #9c27b0;
+}
+
+.dropdown-menu{
+  background-color: #a834bd;
+}
+
+.dropdown-menu :hover{
+  background-color: black;
+  color: white;
+}

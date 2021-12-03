@@ -1,0 +1,22 @@
+.lista-livros{
+  background-color: #000000;
+  color: #ffffff;
+  height: 600px;
+  justify-items: center;
+}
+
+.container{
+  padding: 30px;
+  width: 70%;
+  text-align: center;
+}
+
+h1{
+  margin-bottom: 30px;
+}
+
+.table{
+  color: #ffffff;
+}
+
+

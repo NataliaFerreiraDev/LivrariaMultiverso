@@ -1,0 +1,31 @@
+.lista-livros{
+  background-color: #000000;
+  color: #ffffff;
+  height: 600px;
+  justify-items: center;
+}
+
+.container{
+  padding: 30px;
+  width: 70%;
+  text-align: center;
+}
+
+.card i{
+  font-size: 100px;
+}
+
+.card-header{
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.card-body{
+  background-color: #3a3a3a;
+  color: #ffffff;
+}
+
+.card-footer{
+  background-color: #000000;
+  color: #ffffff;
+}

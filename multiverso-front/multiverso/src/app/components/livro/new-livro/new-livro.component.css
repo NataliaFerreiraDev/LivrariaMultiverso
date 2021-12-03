@@ -1,0 +1,29 @@
+.new-livro{
+  background-color: #000000;
+  color: #ffffff;
+  height: 600px;
+  justify-items: center;
+}
+
+h1{
+  margin-bottom: 30px;
+}
+
+.container{
+  padding: 30px;
+  width: 70%;
+  text-align: center;
+}
+
+.input-group{
+  justify-content: space-around;
+  justify-items: center;
+}
+
+.row{
+  flex-wrap: nowrap;
+}
+
+.btn-secondary{
+  width: 50%;
+}
